@@ -1,0 +1,4 @@
+C:/Users/ADMIN/Downloads/WioSTM32_LoRaWAN_End_Node_Clean/Middlewares/Third_Party/LoRaWAN/LmHandler/NvmDataMgmt.c:52:6:NvmDataMgmtEvent	0	static
+C:/Users/ADMIN/Downloads/WioSTM32_LoRaWAN_End_Node_Clean/Middlewares/Third_Party/LoRaWAN/LmHandler/NvmDataMgmt.c:59:10:NvmDataMgmtStore	0	static
+C:/Users/ADMIN/Downloads/WioSTM32_LoRaWAN_End_Node_Clean/Middlewares/Third_Party/LoRaWAN/LmHandler/NvmDataMgmt.c:154:10:NvmDataMgmtRestore	0	static
+C:/Users/ADMIN/Downloads/WioSTM32_LoRaWAN_End_Node_Clean/Middlewares/Third_Party/LoRaWAN/LmHandler/NvmDataMgmt.c:221:6:NvmDataMgmtFactoryReset	0	static
